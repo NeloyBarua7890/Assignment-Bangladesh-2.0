@@ -54,6 +54,11 @@
   font-size: 20px;
   color: rgba(14, 14, 14, 0.8);
 }
+
+.text-40 {
+  font-size: 40px;
+  color: rgba(14, 14, 14, 0.8);
+}
 /* Shared Styles End Here */
 
 /* Nav Bar Section Start Here */
@@ -227,6 +232,7 @@ main section {
 }
 input {
   width: 600px;
+  border: none;
   border-radius: 8px;
   font-size: 18px;
   padding: 15px 30px;
