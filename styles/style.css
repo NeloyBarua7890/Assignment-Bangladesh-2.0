@@ -50,9 +50,10 @@
 /* Nav Bar Section Start Here */
 nav {
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 30px 160px;
+  padding: 24px 160px 24px 160px;
 }
 
 nav a {
@@ -62,11 +63,13 @@ nav a {
 /* Banner Styles Start Here */
 .banner {
   display: flex;
-  justify-content: space-around;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
   gap: 64px;
   background-color: rgba(198, 228, 214, 1);
   border-radius: 24px;
+  max-width: 1250px;
   margin: 20px 160px;
   max-width: 1250px;
   margin: 0 auto;
