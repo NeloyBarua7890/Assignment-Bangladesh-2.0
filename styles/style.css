@@ -97,6 +97,8 @@ main {
 main section {
   margin-top: 80px;
   margin-bottom: 80px;
+  margin-left: 160px;
+  margin-right: 160px;
 }
 /* Pillars of Bangladesh Start Here */
 .pillars-container {
@@ -106,9 +108,7 @@ main section {
 
 .pillars-content {
   padding: 24px;
-  box-sizing: border-box;
-  border: 1px solid rgba(14, 14, 14, 0.15);
+  box-shadow: 0px 6px 50px 0px rgba(14, 14, 14, 0.15);
   border-radius: 16px;
-  background: rgb(255, 255, 255);
 }
 /* Pillars of Bangladesh End Here */
