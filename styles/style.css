@@ -196,7 +196,7 @@ main section {
   background: rgb(255, 255, 255);
 }
 /* Vision of Future Section End Here */
-
+/* Recent News Section Start Here */
 .box-1 {
   padding: 48px;
   display: flex;
@@ -214,3 +214,8 @@ main section {
   align-items: center;
   gap: 32px;
 }
+
+.box-img {
+  border-radius: 24px;
+}
+/* Recent News Section End Here */
