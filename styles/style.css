@@ -196,3 +196,21 @@ main section {
   background: rgb(255, 255, 255);
 }
 /* Vision of Future Section End Here */
+
+.box-1 {
+  padding: 48px;
+  display: flex;
+  margin: 24px 0px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
+
+.box-2 {
+  padding: 48px;
+  display: flex;
+  margin: 24px 0px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
