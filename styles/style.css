@@ -26,6 +26,7 @@
 /* Font Styles End Here */
 
 /* Shared Styles Start Here */
+/* Buttons */
 .btn-1 {
   color: rgba(0, 106, 80, 1);
   background-color: rgba(255, 255, 255, 1);
@@ -63,19 +64,25 @@ nav a {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  gap: 64px;
   background-color: rgba(198, 228, 214, 1);
   border-radius: 24px;
   margin: 20px 160px;
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+.banner-img {
+  width: 470px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .banner-title {
-  color: rgba(14, 14, 14, 0.5);
   font-size: 24px;
-  font-weight: 500;
+  color: rgba(14, 14, 14, 0.5);
 }
 
 .banner-description {
-  color: rgba(14, 14, 14, 1);
   font-size: 56px;
-  font-weight: bold;
 }
