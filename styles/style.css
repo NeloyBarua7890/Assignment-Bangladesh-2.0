@@ -219,3 +219,15 @@ main section {
   border-radius: 24px;
 }
 /* Recent News Section End Here */
+/* Newsletter Section */
+.newsletter {
+  border-radius: 24px;
+  background: rgb(198, 228, 214);
+  padding: 80px 100px 80px 100px;
+}
+input {
+  width: 600px;
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 15px 30px;
+}
